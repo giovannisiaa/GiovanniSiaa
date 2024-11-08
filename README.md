@@ -1,4 +1,4 @@
-### Dale, tomate un matecito 🧉
+### Dale, tomate un té de boldo 🍵
 
 <!--
 **GiovanniSia/GiovanniSia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
