@@ -13,8 +13,7 @@ Soy un desarrollador apasionado por la tecnología, actualmente cursando la carr
 
 <p align="center">
   <a href="https://giovannisia.vercel.app/">
-    <img src="![image](https://github.com/user-attachments/assets/e224f152-ea6d-4ee8-9fd8-5dadb168d5e2)
-" alt="Vista previa del portfolio" width="100%" />
+    <img src="https://github.com/GiovanniSiaa/GiovanniSiaa/blob/main/portfolio.png?raw=true" alt="Vista previa del portfolio" width="100%" />
   </a>
 </p>
 
