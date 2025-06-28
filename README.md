@@ -1,4 +1,4 @@
-# 👋 Hola, soy Giovanni Sia
+# 👋 Hola, soy Giova
 
 ### 🧑‍💻 Desarrollador de Software | Estudiante de Ingeniería en Sistemas
 
@@ -33,15 +33,4 @@ Soy un desarrollador apasionado por la tecnología, actualmente cursando la carr
 
 ---
 
-## 📬 Contacto
-
-- 📧 [Email](mailto:tu-correo@example.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tu-linkedin)  
-- 💻 [GitHub](https://github.com/GiovanniSia)  
-📄 [Descargar CV](#)
-
----
-
 > “El código es como el humor. Cuando tienes que explicarlo, es malo.” – Cory House
-
-¡Gracias por visitar mi perfil! 😊
