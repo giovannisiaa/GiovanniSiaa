@@ -8,16 +8,11 @@ Soy un desarrollador apasionado por la tecnología, actualmente cursando la carr
 
 ## 🌐 Mi Portfolio
 
-🔗 **[giovannisia.vercel.app](https://giovannisia.vercel.app/)**  
-¡Visitá mi sitio personal para ver todos mis proyectos, tecnologías y más sobre mí!
-
 <p align="center">
   <a href="https://giovannisia.vercel.app/">
     <img src="https://github.com/GiovanniSiaa/GiovanniSiaa/blob/main/portfolio.png?raw=true" alt="Vista previa del portfolio" width="100%" />
   </a>
 </p>
-
-*(Podés reemplazar esta imagen por una captura real del sitio)*
 
 ---
 
@@ -32,5 +27,3 @@ Soy un desarrollador apasionado por la tecnología, actualmente cursando la carr
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
-
-> “El código es como el humor. Cuando tienes que explicarlo, es malo.” – Cory House
